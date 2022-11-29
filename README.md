@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Oluwatimilehin16
 - 👀 I’m interested in Software Engineering
 - 🌱 I’m currently learning Git
-- 💞️ I’m looking to collaborate on more projectd
+- 💞️ I’m looking to collaborate on more project
 - 📫 How to reach me oluwatimilehinpelumi16@gmail.com
 
 <!---
